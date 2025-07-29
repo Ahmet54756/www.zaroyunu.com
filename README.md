@@ -1,2 +1,2 @@
-# www.zaroyunu.com
+# bir zar oyunu
 Bir zar oyunu
